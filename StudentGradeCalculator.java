@@ -29,7 +29,6 @@ else
      grade = "F";
  System.out.println("Total:"+ total);
  System.out.println("average:"+ avg);
- //System.out.println("Grade:"+ grade);
  sc.close();
 		    }
 		
